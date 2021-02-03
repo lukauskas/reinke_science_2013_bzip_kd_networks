@@ -1,7 +1,7 @@
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.5
+bleach==3.3.0
 catheat @ git+git://github.com/schlegelp/catheat@916a8ccd02a262a272337be1458ac712e46d7ced
 cycler==0.10.0
 decorator==4.4.2
